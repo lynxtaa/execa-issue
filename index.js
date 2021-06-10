@@ -5,4 +5,6 @@ p.on('error', (err) => {
 	console.log(err) // never called in Windows, but called in Linux
 })
 
-setTimeout(() => {}, 1000)
+setTimeout(() => {
+	console.log('Exiting...')
+}, 1000)
