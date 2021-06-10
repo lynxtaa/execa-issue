@@ -1,0 +1,15 @@
+{
+  "name": "execa-issue",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alek Kondratyuk <lynxtaa@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "execa": "^5.1.1"
+  }
+}
